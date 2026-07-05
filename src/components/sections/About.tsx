@@ -16,7 +16,7 @@ export default function About() {
           className="relative aspect-[4/3] rounded-2xl overflow-hidden"
         >
           <Image
-            src="/images/gallery/customer-experience.jpg"
+            src="/images/gallery/depan.png"
             alt="Suasana makan di Bee Grill & Suki"
             fill
             className="object-cover"
